@@ -16,7 +16,7 @@
 - ` Firebase `:  Tecnologia utilizada no Beck end. Responsável pelo armazenamento dos dados presentes e dos usuários cadastrados
 
 ## Acesso ao Projeto 
-` https://github.com/kauabarrosg/Corrente-do-bem.git ` : Clone o projeto utilizando a chave http
+` https://github.com/kauabarrosg/Corrente-do-bem.git ` : Clone o projeto utilizando a chave https
 
 ### 🛠️Abrir e rodar o projeto
 Após clonar o projeto, você pode abrir com o vsCode
