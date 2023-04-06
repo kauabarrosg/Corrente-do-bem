@@ -34,8 +34,8 @@ Após clonar o projeto, você pode abrir com o vsCode
 
 ## Status do projeto </i> </h3>
 <p>
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kauabarrosg/Corrente-do-bem"> 
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kauabarrosg/corrente-do-bem">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kauabarrosg/Corrente-do-bem?style=flat-square">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kauabarrosg/corrente-do-bem?style=flat-square">
 <img alt="GitHub contributors" height= "20" width= "100"  src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge">
 </p>
 
